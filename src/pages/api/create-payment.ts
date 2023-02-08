@@ -36,7 +36,7 @@ const asd = async (
               data: {
                 mode: "0011",
                 payerReference: "123",
-                callbackURL: "http://localhost:3000/",
+                callbackURL: "https://bkash-api-validation.redshop.io/",
                 amount: "101",
                 currency: "BDT",
                 intent: "sale",
