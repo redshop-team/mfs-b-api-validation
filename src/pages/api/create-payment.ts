@@ -1,7 +1,7 @@
 import axios from "axios";
 import { NextApiRequest, NextApiResponse } from "next";
 
-const asd = async (
+const create = async (
   req: NextApiRequest,
   res: NextApiResponse
 ): Promise<void> => {
@@ -84,4 +84,4 @@ const asd = async (
  }); 
 };
 
-export default asd;
+export default create;
