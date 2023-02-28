@@ -38,7 +38,7 @@ const create = async (
                  mode: "0011",
                  payerReference: "123",
                  callbackURL: "https://bkash-api-validation.redshop.io/",
-                 amount: "0",
+                 amount: "1",
                  currency: "BDT",
                  intent: "sale",
                  merchantInvoiceNumber: "INV101",
